@@ -1,0 +1,6 @@
+.is-done {
+  text-decoration: line-through;
+}
+p {
+  border: red 5px double;
+}
